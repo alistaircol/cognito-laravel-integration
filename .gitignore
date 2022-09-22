@@ -1,0 +1,5 @@
+**terraform**
+.idea/
+!terraform.tfvars.example
+# debatable since these are semi-public anyway
+src/jwks.json
