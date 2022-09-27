@@ -8,7 +8,6 @@ use Aws\Credentials\Credentials;
 use Illuminate\Console\Command;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\DB;
-use PhpParser\Node\Expr\Array_;
 
 class RegisterUserInCognito extends Command
 {
